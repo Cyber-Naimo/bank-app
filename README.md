@@ -17,8 +17,8 @@ Before starting, make sure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/shradha-khapra/docker-testapp.git
-cd docker-testapp
+git clone https://github.com/Cyber-Naimo/bank-app.git
+cd bank-app
 
 ```
 
