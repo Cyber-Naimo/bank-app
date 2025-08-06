@@ -24,7 +24,7 @@ services:
 
   testapp:
     container_name: testapp
-    image: naimss0/testapp:1.1
+    image: naimss0/testapp:1.2
     ports:
       - "5050:5050"
     environment:
