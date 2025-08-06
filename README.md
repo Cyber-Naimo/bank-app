@@ -40,6 +40,8 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
       MONGO_INITDB_ROOT_PASSWORD: qwerty
+    volumes:
+      - C:\Users\MuhammadNaimatullahK\Downloads\Projects\docker-testapp\data:/data/db
 
   mongo-express:
     image: mongo-express
